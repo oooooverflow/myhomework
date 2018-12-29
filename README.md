@@ -1,9 +1,9 @@
 #**葫芦娃大战蛇精最终版**
-***
->南京大学计算机系 王森 161220126
+***  
+>南京大学计算机系 王森 161220126  
 ##效果展示  
 ![](https://i.imgur.com/9h2AzSl.gif "效果展示")
-##开发环境
+##开发环境  
 | 操作系统 | IDE选择 | 构建环境| GUI框架 |
 |:-:|:-:|:-:|:-:|
 |Windows 10| JetBrains\IntelliJ IDEA Community Edition 2018.2.3 | Apache Maven 3 | JavaFx |
