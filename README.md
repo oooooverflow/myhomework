@@ -7,7 +7,7 @@
 | 操作系统 | IDE选择 | 构建环境| GUI框架 |
 |:-:|:-:|:-:|:-:|
 |Windows 10| JetBrains\IntelliJ IDEA Community Edition 2018.2.3 | Apache Maven 3 | JavaFx |
-##功能介绍
+## 功能介绍
 ### **基本功能：**   
 * 两个阵营的对战。
 * 多线程调度不同的生物体。
